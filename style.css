@@ -4,7 +4,7 @@
     position: fixed;
     width: 100vw;
     z-index: 500;
-    background-color: #d9afa4;
+    background-color: #f3e2d9;
   }
 
 .section{
@@ -87,7 +87,7 @@
     position: fixed;
     width: 100vw;
     bottom: 0;
-    background-color: #ececec;
+    background-color: #f3e2d9;
   }
 
 
